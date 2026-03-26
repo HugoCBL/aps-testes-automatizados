@@ -1,5 +1,4 @@
-```markdown
-# APS - Testes Automatizados e Adequação de Testes
+## APS - Testes Automatizados e Adequação de Testes
 
 Este repositório contém a suíte de testes automatizados para o sistema `Scholarship Eligibility Evaluator`.
 
@@ -22,4 +21,3 @@ pytest test_scholarship.py -v
 ```
 
 Ao final da execução, o terminal exibirá o status de todos os testes (passaram ou falharam) e a porcentagem de conclusão.
-```
